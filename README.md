@@ -27,8 +27,3 @@ An E Commerce company or DTH (we can choose either of these two domains) provide
 
 ## Model Validation:
    * Model is validated using Accuracy, Precision, Recall and AUC score.
-
-
-
-   * 
-   * 
